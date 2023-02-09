@@ -1,2 +1,1 @@
-#!/bin/bash
-where am i
+this directory is based on shell basics scripts
