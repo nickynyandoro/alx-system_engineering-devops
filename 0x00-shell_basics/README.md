@@ -1,1 +1,1 @@
-this directory is based on shell basics scripts
+this directory is based on shell basics scripts.
